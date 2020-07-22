@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "995380111141",
+    "firebase_url": "https://n-fresh-app.firebaseio.com",
+    "project_id": "n-fresh-app",
+    "storage_bucket": "n-fresh-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995380111141:android:495b35904ff679a2f99ccc",
+        "android_client_info": {
+          "package_name": "com.nfreshapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995380111141-4h8s5rba11kqbqqas0o0icskvg1k4q91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANFv1WZfKDsd350yHIQqCUTi-XvIveT_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995380111141-4h8s5rba11kqbqqas0o0icskvg1k4q91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
